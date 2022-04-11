@@ -1,0 +1,15 @@
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.row-custom {
+    padding-top: 5px;
+    /*padding-bottom: 5px;*/
+}
+
+.btn-custom {
+    padding-top: 10px;
+}
+
+
